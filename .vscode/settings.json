@@ -1,0 +1,4 @@
+{
+    "quokka.showOutputOnStart": false,
+    "gitlens.outputLevel": "silent"
+}
