@@ -6,7 +6,7 @@ import Navigation from './components/Navigation/Navigation';
 import Signin from './components/Signin/Signin';
 import Register from './components/Register/Register';
 import Logo from './components/Logo/Logo';
-import ImageLinkForm from './components/ImageLinkform/ImageLinkform';
+import ImageLinkform from './components/ImageLinkform/ImageLinkform';
 import Rank from './components/Rank/Rank';
 import './App.css';
 
@@ -137,7 +137,7 @@ class App extends Component {
                 name={this.state.user.name}
                 entries={this.state.user.entries}
               />
-              <ImageLinkForm
+              <ImageLinkform
                 onInputChange={this.onInputChange}
                 onButtonSubmit={this.onButtonSubmit}
               />
