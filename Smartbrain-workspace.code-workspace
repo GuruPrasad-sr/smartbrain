@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\smartbrain-backend"
+		}
+	],
+	"settings": {
+		"quokka.showOutputOnStart": false,
+		"gitlens.outputLevel": "silent"
+	}
+}
