@@ -8,12 +8,13 @@ import Logo from './components/Logo/Logo';
 import ImageLinkform from './components/ImageLinkform/ImageLinkform';
 import Rank from './components/Rank/Rank';
 import './App.css';
+
  
 const particlesOptions = {
   //customize this to your liking
   particles: {
     number: {
-      value: 65,
+      value: 80,
       density: {
         enable: true,
         value_area: 800
